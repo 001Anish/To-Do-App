@@ -1,5 +1,4 @@
-# To-Do List Web Application
-
+# To-Do-App
 This is a simple web application that allows users to create and manage their to-do lists. The application is built using HTML, CSS, and JavaScript, providing an intuitive and user-friendly interface for managing tasks.
 
 ## Features
@@ -22,7 +21,8 @@ Start by adding your tasks to the list and manage them using the intuitive inter
 
 ## Preview
 
-![image](https://github.com/001Anish/To-Do-App/assets/125531552/e84a21aa-1d33-4113-84e0-5ec3908adb64)
+![image](https://github.com/001Anish/To-Do-App/assets/125531552/8b1bdedb-a7fa-41d4-b8c7-9329f7624518)
+
 
 
 ## Acknowledgements
